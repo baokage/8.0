@@ -10,26 +10,26 @@ Size: 243020
 MD5sum: 0a23428572c7373f585630a2aef12d92
 Description: Auto Lead iOS 8 - 10.2 .....................................
 Name: autolead
-Author: VoAazon <xxx@gmail.com>
+Author: Phạm Văn mạnh <xxx@gmail.com>
 
 Package: com.kdk72.hookkeyboard
 Version: 7.2
 Section: Tweaks
 Maintainer: NTNghia
-Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.kdk72.xcon, jetslammed, socat, com.kdk72.hookkeyboard, com.kdk72.icontool, com.cydiageek.coysim, com.kdk72.locationfaker8910
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/hookkeyboard_7.2_iphoneos-arm.deb
 Size: 331952
 MD5sum: 1c15b2e819193c8f9b1d4b16e8332405
 Description: Tweak for AutoLead iOS 8 --- 10.2 .......................................
 Name: hookkeyboard
-Author: VoAazon <mena@geekforex.com>
+Author: Phạm Văn mạnh <mena@geekforex.com>
 
 Package: com.kdk72.icontool
 Version: 1.9
 Section: Tweaks
 Maintainer: NTNghia
-Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.kdk72.xcon, jetslammed, socat, com.kdk72.hookkeyboard, com.kdk72.icontool, com.cydiageek.coysim, com.kdk72.locationfaker8910
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/icontool_1.9_iphoneos-arm.deb
 Size: 384314
@@ -42,7 +42,7 @@ Package: com.kdk72.locationfaker8910
 Version: 2.0
 Section: Tweaks
 Maintainer: NTNghia
-Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.kdk72.xcon, jetslammed, socat, com.kdk72.hookkeyboard, com.kdk72.icontool, com.cydiageek.coysim, com.kdk72.locationfaker8910
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/locationfaker8910_2.0_iphoneos-arm.deb
 Size: 550076
@@ -55,7 +55,7 @@ Package: com.kdk72.xcon
 Version: 4.2.1
 Section: Tweaks
 Maintainer: NTNghia
-Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.kdk72.xcon, jetslammed, socat, com.kdk72.hookkeyboard, com.kdk72.icontool, com.cydiageek.coysim, com.kdk72.locationfaker8910
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/xcon_4.2.1_iphoneos-arm.deb
 Size: 142018
