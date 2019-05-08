@@ -3,7 +3,7 @@ Version: 7.2
 Section: System
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.autolead_7.2_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.autolead_7.2_iphoneos-arm.deb
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.kidsauto72.SSLKillSwitch2,com.kidsauto72.xcon,com.kidsauto72.hookkeyboard,com.kidsauto72.icontool,com.kidsauto72.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 Author email: kieutaous@gmail.com
@@ -18,7 +18,7 @@ Version: 7.2
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.hookkeyboard_7.2_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.hookkeyboard_7.2_iphoneos-arm.deb
 Depends: mobilesubstrate
 Author email: kieutaous@gmail.com
 Size: 331784
@@ -32,7 +32,7 @@ Version: 1.9-5k
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.icontool_1.9-5k_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.icontool_1.9-5k_iphoneos-arm.deb
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 Author email: kieutaous@gmail.com
@@ -47,7 +47,7 @@ Version: 2.0k
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.locationfaker8910_2.0k_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.locationfaker8910_2.0k_iphoneos-arm.deb
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 Author email: kieutaous@gmail.com
@@ -62,7 +62,7 @@ Version: 42~beta1
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.xcon_42~beta1_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.xcon_42~beta1_iphoneos-arm.deb
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
 Author email: kieutaous@gmail.com
@@ -77,7 +77,7 @@ Version: 1.0.3
 Section: Utilities
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.remover103_1.0.3_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.remover103_1.0.3_iphoneos-arm.deb
 Author email: kieutaous@gmail.com
 Size: 141906
 MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
@@ -90,7 +90,7 @@ Version: 0.0.2-4
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.wtabwdata73_0.0.2-4_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.wtabwdata73_0.0.2-4_iphoneos-arm.deb
 Author email: kieutaous@gmail.com
 Size: 41352
 MD5sum: 28d4024a63397881141d8a7e9dbe03f9
@@ -103,7 +103,7 @@ Version: 0.1
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto73.jailprotect_0.1_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto73.jailprotect_0.1_iphoneos-arm.deb
 Author email: kieutaous@gmail.com
 Size: 53098
 MD5sum: 350ea2183972928952f931f557a11be6
@@ -116,7 +116,7 @@ Version: 0.11-1
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./debs/com.kidsauto72.sslkillswitch2_0.11-1_iphoneos-arm.deb
+Filename: ./7.0/com.kidsauto72.sslkillswitch2_0.11-1_iphoneos-arm.deb
 Author email: kieutaous@gmail.com
 Size: 10102
 MD5sum: 436a47b8b1277db1360e5fbd0a7212cb
@@ -132,7 +132,7 @@ Description: Support from version 9 - 11.4.1
 Author: Kieu Tao
 Section: System
 Tag: role::hacker
-Filename: ./Debs/KidsAuto8072.deb
+Filename: ./8.0/KidsAuto8072.deb
 Size: 382128
 MD5sum: 64bb7ef1621c71cfcc65ebe630ea763b
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
@@ -146,7 +146,7 @@ Author: Cunstuck <repo@hackyouriphone.org>
 Description: change your location using a map
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Section: Tweaks
-Filename: ./Debs/LocationFaker1011.deb
+Filename: ./8.0/LocationFaker1011.deb
 Size: 636612
 MD5sum: ed520e2887f755ba235519cee9950856
 Depends: firmware, mobilesubstrate
@@ -160,7 +160,7 @@ Description: Blackbox tool to disable SSL certificate validation - including cer
 Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
 Author: Alban Diquet <nabla.c0d3@gmail.com>
 Section: Tweaks
-Filename: ./Debs/SSLKillSwitch8.deb
+Filename: ./8.0/SSLKillSwitch8.deb
 Size: 10590
 MD5sum: baa0ed9a7b53a65e946cb5d6089ede12
 Depends: mobilesubstrate, preferenceloader
@@ -175,7 +175,7 @@ Maintainer: Ryley Angus
 Author: Ryley Angus
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Filename: ./Debs/LibertyLite8.deb
+Filename: ./8.0/LibertyLite8.deb
 Size: 78350
 MD5sum: 94702173d002644394b5e245a2479963
 Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
@@ -193,7 +193,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preference
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Tag: role::hacker, purpose::library
 Section: System
-Filename: ./Debs/Preferenceloader.deb
+Filename: ./8.0/Preferenceloader.deb
 Size: 49882
 MD5sum: 9a4a06a924116033d1887baa9ebea7d2
 Depends: mobilesubstrate, firmware (>= 11.0)
@@ -209,7 +209,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Tweaks
-Filename: ./Debs/RocketBootStrap.deb
+Filename: ./8.0/RocketBootStrap.deb
 Size: 54350
 MD5sum: bc0cb2ae33a2849dbd899d506abc780c
 dev: rpetrich
