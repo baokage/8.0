@@ -123,3 +123,95 @@ MD5sum: 436a47b8b1277db1360e5fbd0a7212cb
 Description: bypass anti-jailbreak protection
 Name: sslkillswitch2
 Author: Kieu Tao
+
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto
+Version: 8.0.7-2
+Architecture: iphoneos-arm
+Description: Support from version 9 - 11.4.1
+Author: Kieu Tao
+Section: System
+Tag: role::hacker
+Filename: ./Debs/KidsAuto8072.deb
+Size: 382128
+MD5sum: 64bb7ef1621c71cfcc65ebe630ea763b
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.locationchanger
+Name: LocationFaker(10,11)
+Version: 8.0
+Architecture: iphoneos-arm
+Author: Cunstuck <repo@hackyouriphone.org>
+Description: change your location using a map
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Section: Tweaks
+Filename: ./Debs/LocationFaker1011.deb
+Size: 636612
+MD5sum: ed520e2887f755ba235519cee9950856
+Depends: firmware, mobilesubstrate
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.kidsauto.sslkillswitch
+Name: SSLKillSwitch
+Architecture: iphoneos-arm
+Version: 2.0.11
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Filename: ./Debs/SSLKillSwitch8.deb
+Size: 10590
+MD5sum: baa0ed9a7b53a65e946cb5d6089ede12
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Architecture: iphoneos-arm
+Version: 0.2.10
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Filename: ./Debs/LibertyLite8.deb
+Size: 78350
+MD5sum: 94702173d002644394b5e245a2479963
+Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
+Conflicts: com.ryleyangus.liberty
+
+Package: preferenceloader
+Name: PreferenceLoader
+Version: 2.2.4~alpha1
+Architecture: iphoneos-arm
+Description: Load preferences in style
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library
+Section: System
+Filename: ./Debs/Preferenceloader.deb
+Size: 49882
+MD5sum: 9a4a06a924116033d1887baa9ebea7d2
+Depends: mobilesubstrate, firmware (>= 11.0)
+
+Package: com.rpetrich.rocketbootstrap
+Name: RocketBootstrap
+Version: 1.0.7~beta2
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+Filename: ./Debs/RocketBootStrap.deb
+Size: 54350
+MD5sum: bc0cb2ae33a2849dbd899d506abc780c
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
