@@ -110,3 +110,16 @@ MD5sum: 350ea2183972928952f931f557a11be6
 Description: bypass anti-jailbreak protection
 Name: jailprotect
 Author: Kieu Tao
+
+Package: com.kidsauto72.sslkillswitch2
+Version: 0.11-1
+Section: Tweaks
+Maintainer: Taodz
+Architecture: iphoneos-arm
+Filename: ./debs/com.kidsauto72.sslkillswitch2_0.11-1_iphoneos-arm.deb
+Author email: kieutaous@gmail.com
+Size: 10102
+MD5sum: 436a47b8b1277db1360e5fbd0a7212cb
+Description: bypass anti-jailbreak protection
+Name: sslkillswitch2
+Author: Kieu Tao
