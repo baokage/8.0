@@ -51,8 +51,8 @@ Filename: ./debs/com.kidsauto72.locationfaker8910_2.0k_iphoneos-arm.deb
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 Author email: kieutaous@gmail.com
-Size: 384378
-MD5sum: ae836280e52d3cb46c0a0c4ee9cc6edf
+Size: 551072
+MD5sum: 77b3aecd8cc47f3cf2a7424849eed2ce
 Description: Change your location using a map Cracked
 Name: LocationFaker(8,9,10)
 Author: Kieu Tao
