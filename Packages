@@ -1,4 +1,4 @@
-Package: taodz.github.io
+Package: com.kidsauto72.autolead
 Version: 7.2
 Section: System
 Maintainer: Taodz
@@ -13,7 +13,7 @@ Description: Autolead for IOS Model 9.2.1 - 11.4.1
 Name: autolead
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto72.hookkeyboard
 Version: 7.2
 Section: Tweaks
 Maintainer: Taodz
@@ -27,7 +27,7 @@ Description: Autolead for IOS Model 9.2.1 - 11.4.1
 Name: hookkeyboard
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto72.icontool
 Version: 1.9-5k
 Section: Tweaks
 Maintainer: Taodz
@@ -42,7 +42,7 @@ Description: App tools menu from jiggle mode
 Name: Icon Tool
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto72.locationfaker8910
 Version: 2.0k
 Section: Tweaks
 Maintainer: Taodz
@@ -57,7 +57,7 @@ Description: Change your location using a map Cracked
 Name: LocationFaker(8,9,10)
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto72.xcon
 Version: 42~beta1
 Section: Tweaks
 Maintainer: Taodz
@@ -72,7 +72,7 @@ Description: bypass anti-jailbreak protection
 Name: xCon
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto72.remover103
 Version: 1.0.3
 Section: Utilities
 Maintainer: Taodz
@@ -85,7 +85,7 @@ Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Denn
 Name: Remover
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto72.wtabwdata73
 Version: 0.0.2-4
 Section: Tweaks
 Maintainer: Taodz
@@ -98,7 +98,7 @@ Description: bypass anti-jailbreak protection
 Name: wtabwdata73
 Author: Kieu Tao
 
-Package: taodz.github.io
+Package: com.kidsauto73.jailprotect
 Version: 0.1
 Section: Tweaks
 Maintainer: Taodz
