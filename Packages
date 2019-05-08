@@ -125,7 +125,7 @@ Name: sslkillswitch2
 Author: Kieu Tao
 
 Package: com.kidsauto.kidsdaemon
-Name: KidsAuto
+Name: AutoleadX
 Version: 8.0.7-2
 Architecture: iphoneos-arm
 Description: Support from version 9 - 11.4.1
