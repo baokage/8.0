@@ -85,3 +85,28 @@ Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Denn
 Name: Remover
 Author: Kieu Tao
 
+Package: com.kidsauto72.wtabwdata73
+Version: 0.0.2-4
+Section: Tweaks
+Maintainer: Taodz
+Architecture: iphoneos-arm
+Filename: ./debs/com.kidsauto72.wtabwdata73_0.0.2-4_iphoneos-arm.deb
+Author email: kieutaous@gmail.com
+Size: 41352
+MD5sum: 28d4024a63397881141d8a7e9dbe03f9
+Description: bypass anti-jailbreak protection
+Name: wtabwdata73
+Author: Kieu Tao
+
+Package: com.kidsauto73.jailprotect
+Version: 0.1
+Section: Tweaks
+Maintainer: Taodz
+Architecture: iphoneos-arm
+Filename: ./debs/com.kidsauto73.jailprotect_0.1_iphoneos-arm.deb
+Author email: kieutaous@gmail.com
+Size: 53098
+MD5sum: 350ea2183972928952f931f557a11be6
+Description: bypass anti-jailbreak protection
+Name: jailprotect
+Author: Kieu Tao
