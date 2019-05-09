@@ -25,7 +25,7 @@ Author email: kieutaous@gmail.com
 Size: 384378
 MD5sum: ae836280e52d3cb46c0a0c4ee9cc6edf
 Description: App tools menu from jiggle mode
-Name: Icon Tool
+Name: Icon Tool 10
 Author: Kieu Tao
 
 Package: com.kidsauto72.hookkeyboard
@@ -38,7 +38,7 @@ Author email: kieutaous@gmail.com
 Size: 331784
 MD5sum: 5b536b51c3142738f31b4a99a6eb48d8
 Description: Autolead for IOS Model 9.2.1 - 11.4.1
-Name: hookkeyboard
+Name: hookkeyboard 10
 Author: Kieu Tao
 Depends: mobilesubstrate
 
@@ -52,7 +52,7 @@ Author email: kieutaous@gmail.com
 Size: 551072
 MD5sum: 77b3aecd8cc47f3cf2a7424849eed2ce
 Description: Change your location using a map Cracked
-Name: LocationFaker(8,9,10)
+Name: LocationFaker 10
 Author: Kieu Tao
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 
@@ -66,7 +66,7 @@ Author email: kieutaous@gmail.com
 Size: 141906
 MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
 Description: bypass anti-jailbreak protection
-Name: xCon
+Name: xCon 10
 Author: Kieu Tao
 Depends: mobilesubstrate, firmware (<= 10.2.1)
 
@@ -93,7 +93,7 @@ Author email: kieutaous@gmail.com
 Size: 41352
 MD5sum: 28d4024a63397881141d8a7e9dbe03f9
 Description: bypass anti-jailbreak protection
-Name: wtabwdata73
+Name: wtabwdata 10
 Author: Kieu Tao
 
 Package: com.kidsauto73.jailprotect
@@ -119,7 +119,7 @@ Author email: kieutaous@gmail.com
 Size: 10102
 MD5sum: 436a47b8b1277db1360e5fbd0a7212cb
 Description: bypass anti-jailbreak protection
-Name: SSLKillSwitch2
+Name: SSLKillSwitch 10
 Author: Kieu Tao
 
 Package: com.kidsauto.kidsdaemon
@@ -137,7 +137,7 @@ Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
 Package: com.kidsauto.locationchanger
-Name: LocationFaker(10,11)
+Name: LocationFaker 11
 Version: 8.0
 Architecture: iphoneos-arm
 Author: Cunstuck <repo@hackyouriphone.org>
@@ -151,7 +151,7 @@ Depends: firmware, mobilesubstrate
 Conflicts: org.thebigboss.locationchangerx
 
 Package: com.kidsauto.sslkillswitch
-Name: SSLKillSwitch
+Name: SSLKillSwitch 11
 Architecture: iphoneos-arm
 Version: 2.0.11
 Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
@@ -197,7 +197,7 @@ MD5sum: 9a4a06a924116033d1887baa9ebea7d2
 Depends: mobilesubstrate, firmware (>= 11.0)
 
 Package: com.rpetrich.rocketbootstrap
-Name: RocketBootstrap
+Name: RocketBootstrap 11
 Version: 1.0.7~beta2
 Architecture: iphoneos-arm
 Description: Support library allowing tweaks to communicate with sandboxed processes
