@@ -4,13 +4,12 @@ Section: System
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/com.kidsauto72.autolead_7.2_iphoneos-arm.deb
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.kidsauto72.SSLKillSwitch2,com.kidsauto72.xcon,com.kidsauto72.hookkeyboard,com.kidsauto72.icontool,com.kidsauto72.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 Author email: kieutaous@gmail.com
 Size: 243070
 MD5sum: 093d8db7831ddb1df7233fd90300b066
 Description: Autolead for IOS Model 9.2.1 - 11.4.1
-Name: autolead
+Name: autoleadX10
 Author: Kieu Tao
 
 Package: com.kidsauto72.hookkeyboard
@@ -19,7 +18,6 @@ Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/com.kidsauto72.hookkeyboard_7.2_iphoneos-arm.deb
-Depends: mobilesubstrate
 Author email: kieutaous@gmail.com
 Size: 331784
 MD5sum: 5b536b51c3142738f31b4a99a6eb48d8
@@ -33,7 +31,6 @@ Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/com.kidsauto72.icontool_1.9-5k_iphoneos-arm.deb
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 Author email: kieutaous@gmail.com
 Size: 384378
@@ -48,8 +45,6 @@ Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/com.kidsauto72.locationfaker8910_2.0k_iphoneos-arm.deb
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: org.thebigboss.locationchangerx
 Author email: kieutaous@gmail.com
 Size: 551072
 MD5sum: 77b3aecd8cc47f3cf2a7424849eed2ce
@@ -63,8 +58,6 @@ Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/com.kidsauto72.xcon_42~beta1_iphoneos-arm.deb
-Depends: mobilesubstrate
-Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
 Author email: kieutaous@gmail.com
 Size: 141906
 MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
@@ -125,7 +118,7 @@ Name: sslkillswitch2
 Author: Kieu Tao
 
 Package: com.kidsauto.kidsdaemon
-Name: AutoleadX
+Name: AutoleadX11
 Version: 8.0.7-2
 Architecture: iphoneos-arm
 Description: Support from version 9 - 11.4.1
@@ -135,7 +128,6 @@ Tag: role::hacker
 Filename: ./8.0/KidsAuto8072.deb
 Size: 382128
 MD5sum: 64bb7ef1621c71cfcc65ebe630ea763b
-Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
 Package: com.kidsauto.locationchanger
@@ -214,4 +206,3 @@ Size: 54350
 MD5sum: bc0cb2ae33a2849dbd899d506abc780c
 dev: rpetrich
 Tag: purpose::extension, role::developer
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
