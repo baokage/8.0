@@ -1,6 +1,6 @@
 Package: com.kidsauto.kidsdaemon
 Name: AutoleadX11
-Version: 11.125-b2
+Version: 8.1.0
 Architecture: iphoneos-arm
 Description: Support from version 9 - 11.4.1
 Author: Kieu Tao
