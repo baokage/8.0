@@ -6,9 +6,9 @@ Description: Support from version 9 - 11.4.1
 Author: Kieu Tao
 Section: System
 Tag: role::hacker
-Filename: ./8.0/KidsAuto8072.deb
-Size: 382128
-MD5sum: 64bb7ef1621c71cfcc65ebe630ea763b
+Filename: ./8.0/KidsAuto810.deb
+Size: 383224
+MD5sum: 1ef3688fe18b53088da87da394cbc118
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
