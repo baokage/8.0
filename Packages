@@ -88,3 +88,15 @@ Size: 54350
 MD5sum: bc0cb2ae33a2849dbd899d506abc780c
 dev: rpetrich
 Tag: purpose::extension, role::developer
+
+Package: com.pwn20wnd.semirestore
+Name: Xoa JB ios 11
+Version: 1.1.2-1
+Architecture: iphoneos-arm
+Description: Xoa jb ios 11.0 - 11.4 
+Author: Kieu Tao
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Utilities
+Filename: ./8.0/com.pwn20wnd.semirestore11_1.1.2-1_iphoneos-arm.deb
+Size: 50442
+MD5sum: a856629dc19000e9bf18f9a93e4fd226
