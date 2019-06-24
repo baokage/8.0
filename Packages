@@ -103,6 +103,19 @@ MD5sum: bc0cb2ae33a2849dbd899d506abc780c
 dev: rpetrich
 Tag: purpose::extension, role::developer
 
+Package: com.kidsauto.jailbreakbypass
+Name: JailBreakByPass
+Version: 1.0-9
+Architecture: iphoneos-arm
+Description: Tweak Support!
+Maintainer: HackYouriPhone
+Author: Kieu Tao
+Section: Tweaks
+Filename: ./8.0/JailByPass.deb
+Size: 8800
+MD5sum: 6ffbe84000de6e345f6f8d1d3cb5744b
+Depends: mobilesubstrate,com.kidsauto.kidsdaemon
+
 Package: com.pwn20wnd.semirestore
 Name: Xoa JB ios 11
 Version: 1.1.2-1
