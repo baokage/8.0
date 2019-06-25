@@ -1,14 +1,13 @@
 Package: com.kidsauto.kidsdaemon
-Name: AutoleadX11 b2
-Version: 11.0
+Name: AutoleadX8
+Version: 8.1.0
 Architecture: iphoneos-arm
 Description: Support from version 9 - 11.4.1
 Author: Kieu Tao
 Section: System
-Tag: role::hacker
 Filename: ./8.0/KidsAuto812.deb
 Size: 374340
-MD5sum: 1ef3688fe18b53088da87da394cbc118
+MD5sum: cde4ede8322c7682c54e19ce987d056b
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
@@ -89,6 +88,19 @@ MD5sum: bc0cb2ae33a2849dbd899d506abc780c
 dev: rpetrich
 Tag: purpose::extension, role::developer
 
+Package: com.kidsauto.jailbreakbypass
+Name: JailBreakByPass
+Version: 1.0-9
+Architecture: iphoneos-arm
+Description: Tweak Support!
+Maintainer: HackYouriPhone
+Author: Kieu Tao
+Section: Tweaks
+Filename: ./8.0/JailByPass.deb
+Size: 8800
+MD5sum: 6ffbe84000de6e345f6f8d1d3cb5744b
+Depends: mobilesubstrate,com.kidsauto.kidsdaemon
+
 Package: com.pwn20wnd.semirestore
 Name: Xoa JB ios 11
 Version: 1.1.2-1
@@ -100,3 +112,14 @@ Section: Utilities
 Filename: ./8.0/com.pwn20wnd.semirestore11_1.1.2-1_iphoneos-arm.deb
 Size: 50442
 MD5sum: a856629dc19000e9bf18f9a93e4fd226
+
+Package: com.pwn20wnd.udidchange
+Name: ChangeUDID
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: change udid
+Author: Kieu Tao
+Section: Tweaks
+Filename: ./8.0/KidsHooker.deb
+Size: 95720
+MD5sum: 3eaaebefb6a17c411d99a8419cafd95e
