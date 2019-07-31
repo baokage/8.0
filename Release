@@ -1,12 +1,12 @@
-Origin: Kieu Tao 80
+﻿Origin: Tao Dep Trai VCL
 
-Label: PVM
+Label: Tao Dep Trai VCL
 
-Suite: Kieu Tao 80
+Suite: Tao Dep Trai VCL
 
 Version: 1.0
 
-Codename: Kieu Tao 80
+Codename: Tao Dep Trai VCL
 
 Architectures: iphoneos-arm
 
@@ -16,6 +16,6 @@ Description: 7.2 hỗ trợ anh em cộng đồng lead offer ios
 
 MD5sum:
 
-e274e3a408cc83e1d78de16a4658ce3f 4084 Packages
+0c4b3f66a119b73bc2ff916c8274770c 8419 Packages
 
-09f8b998daf58ae60b30b189327fa048 1786 Packages.bz2
+d72bd067209caf397e66296199d79417 2308 Packages.bz2
