@@ -2,7 +2,7 @@
 
 Label: Tao Dep Trai VCL
 
-Label: Kieu Tao 80
+Label: Tao Dep Trai VCL
 
 Suite: Tao Dep Trai VCL
 
@@ -14,10 +14,10 @@ Architectures: iphoneos-arm
 
 Components: main
 
-Description: 7.2 hỗ trợ anh em cộng đồng lead offer ios
+Description: Tao Dep Trai VCL
 
 MD5sum:
 
-e855c0c5ed54c4eee60733c5e26e8490 7632 Packages
+7a3544f6ac04918d5859180ba460387d 7619 Packages
 
-ce2fff0f84606816b6700ddb9762ca2a 2231 Packages.bz2
+d2e22ab2f0864c35e8202e68903b6d21 2234 Packages.bz2

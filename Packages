@@ -7,7 +7,7 @@ Author: AutoleadXXX
 Maintainer: Dev by Tue Mobi
 Section: System
 Tag: role::hacker
-Filename: ./Debs/KidsAuto810.deb
+Filename: ./8.0/KidsAuto810.deb
 Size: 383224
 MD5sum: 1ef3688fe18b53088da87da394cbc118
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
@@ -22,7 +22,7 @@ Author: AutoleadXXX
 Maintainer: Dev by Tuệ Mobi
 Section: System
 Tag: role::hacker
-Filename: ./Debs/KidsAuto813.deb
+Filename: ./8.0/KidsAuto813.deb
 Size: 637166
 MD5sum: 06ae74ef3b11e09d1d2a66a3dac91072
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger,com.kidsauto.jailbreakbypass
@@ -37,7 +37,7 @@ Author: AutoleadXXX
 Maintainer: Dev by Tue Mobi
 Section: System
 Tag: role::hacker
-Filename: ./Debs/KidsAuto82.deb
+Filename: ./8.0/KidsAuto82.deb
 Size: 1906568
 MD5sum: fc763be304e32dddc9b8395bdcc318fe
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
@@ -51,7 +51,7 @@ Author: Cunstuck <repo@hackyouriphone.org>
 Description: change your location using a map
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Section: Tweaks
-Filename: ./Debs/LocationFaker1011.deb
+Filename: ./8.0/LocationFaker1011.deb
 Size: 636612
 MD5sum: ed520e2887f755ba235519cee9950856
 Depends: firmware, mobilesubstrate
@@ -65,7 +65,7 @@ Description: An awesome MobileSubstrate tweak to disable SSL certificate validat
 Maintainer: Alban Diquet <alban@isecpartners.com>
 Author: Alban Diquet <alban@isecpartners.com>
 Section: Tweaks
-Filename: ./Debs/isecsslkillswitch.deb
+Filename: ./8.0/isecsslkillswitch.deb
 Size: 8648
 MD5sum: 6d32d5526df049ef59988ebec02d75d2
 Depends: mobilesubstrate, preferenceloader
@@ -80,7 +80,7 @@ Maintainer: Ryley Angus
 Author: Ryley Angus
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Filename: ./Debs/LibertyLite8.deb
+Filename: ./8.0/LibertyLite8.deb
 Size: 78350
 MD5sum: 94702173d002644394b5e245a2479963
 Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
@@ -98,7 +98,7 @@ Homepage: http://modmyi.com/info/xcon.php
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Section: Tweaks
-Filename: ./Debs/xcon38.deb
+Filename: ./8.0/xcon38.deb
 Size: 28000
 MD5sum: b7d1c2b47288cd7c672f4093bde5e55d
 Depends: mobilesubstrate
@@ -113,7 +113,7 @@ Description: bypass anti-jailbreak protection
 Maintainer: Lunatik
 Author: Lunatik
 Section: Tweaks
-Filename: ./Debs/xcon42_b1.deb
+Filename: ./8.0/xcon42_b1.deb
 Size: 141934
 MD5sum: 86501c258bf2023bb79ac79f4aca3255
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
@@ -129,7 +129,7 @@ Description: bypass anti-jailbreak protection
 Maintainer: Lunatik
 Author: Lunatik
 Section: Tweaks
-Filename: ./Debs/xcon42_b2.deb
+Filename: ./8.0/xcon42_b2.deb
 Size: 142402
 MD5sum: 370aca19fa5bf819de85eb2cdecffa77
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
@@ -145,7 +145,7 @@ Description: bypass anti-jailbreak protection
 Maintainer: Lunatik
 Author: Lunatik
 Section: Tweaks
-Filename: ./Debs/xcon42_b3.deb
+Filename: ./8.0/xcon42_b3.deb
 Size: 136222
 MD5sum: d55e1432b2f7133b1bd12fae1acd37a8
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
@@ -161,7 +161,7 @@ Description: bypass anti-jailbreak protection
 Maintainer: Lunatik
 Author: Lunatik
 Section: Tweaks
-Filename: ./Debs/xcon42.deb
+Filename: ./8.0/xcon42.deb
 Size: 136610
 MD5sum: 8780b83da6b21cb86279855cf95e13f5
 Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
@@ -177,7 +177,7 @@ Description: Tweak Support for AutoleadXXX
 Maintainer: Dev by TueMobi
 Author: AutoleadXXX
 Section: Tweaks
-Filename: ./Debs/JailbreakByPass.deb
+Filename: ./8.0/JailbreakByPass.deb
 Size: 12710
 MD5sum: 6d39e72006fe72df7277863bd3dd4bf9
 Depends: mobilesubstrate,com.kidsauto.kidsdaemon
@@ -190,7 +190,7 @@ Description: Tweak Support for AutoleadXXX
 Maintainer: Dev by TueMobi
 Author: AutoleadXXX
 Section: Tweaks
-Filename: ./Debs/JailbreakByPass109.deb
+Filename: ./8.0/JailbreakByPass109.deb
 Size: 8834
 MD5sum: 7cad10e48110ea6ac38143a96897bc58
 Depends: mobilesubstrate,com.kidsauto.kidsdaemon
