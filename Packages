@@ -15,21 +15,6 @@ Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00nei
 
 Package: com.kidsauto.kidsdaemon
 Name: AutoleadXXX
-Version: 8.1.2
-Architecture: iphoneos-arm
-Description: AutoleadXXX iOS Update 09/06/2019, Support from version 11 - 11.4.1
-Author: AutoleadXXX
-Maintainer: AutoleadXXX
-Section: System
-Tag: role::hacker
-Filename: ./Debs/KidsAuto812.deb
-Size: 374340
-MD5sum: cde4ede8322c7682c54e19ce987d056b
-Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
-Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
-
-Package: com.kidsauto.kidsdaemon
-Name: AutoleadXXX
 Version: 8.1.3
 Architecture: iphoneos-arm
 Description: AutoleadXXX iOS Update 08/07/2019, Support from version 11 - 12.1.2 Unc0ver Jailbreak
