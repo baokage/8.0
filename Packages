@@ -1,9 +1,54 @@
 ﻿Package: com.kidsauto.kidsdaemon
+Name: AutoleadXXX
+Version: 8.1.0
+Architecture: iphoneos-arm
+Description: AutoleadXXX iOS, Support from version 11 - 11.4.1
+Author: AutoleadXXX
+Maintainer: Dev by Tue Mobi
+Section: System
+Tag: role::hacker
+Filename: ./8.0/KidsAuto810.deb
+Size: 383224
+MD5sum: 1ef3688fe18b53088da87da394cbc118
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
+Name: AutoleadXXX
+Version: 8.1.2
+Architecture: iphoneos-arm
+Description: AutoleadXXX iOS Update 09/06/2019, Support from version 11 - 11.4.1
+Author: AutoleadXXX
+Maintainer: Dev by Tue Mobi
+Section: System
+Tag: role::hacker
+Filename: ./8.0/KidsAuto812.deb
+Size: 374340
+MD5sum: cde4ede8322c7682c54e19ce987d056b
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
+Name: AutoleadXXX 8.2
+Version: 8.2
+Architecture: iphoneos-arm
+Description: AutoleadXXX iOS Update 18/07/2019, Support from version 11 - 12.2
+Author: AutoleadXXX
+Maintainer: Dev by Tue Mobi
+Section: System
+Tag: role::hacker
+Filename: ./8.0/KidsAuto82.deb
+Size: 1906568
+MD5sum: fc763be304e32dddc9b8395bdcc318fe
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
 Name: AutoleadXXX 8.2.1
 Version: 8.2.1
 Architecture: iphoneos-arm
-Description: AutoleadXXX 8.2 iOS Update 09/08/2019, Support from version 11 - 12.2
-Author: AutoleadXXX 8.2
+Description: AutoleadXXX iOS Update 09/08/2019, Support from version 11 - 12.2
+Author: AutoleadXXX
 Homepage: https://www.facebook.com/groups/1356112074493442
 Maintainer: Dev by Tue Mobi
 Section: System
@@ -13,6 +58,7 @@ Size: 1772276
 MD5sum: 86fbe5b12db3584a1cbc9defe88ff4a3
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
 
 Package: com.kidsauto.locationchanger
 Name: LocationFaker(10,11)
