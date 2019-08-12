@@ -2,19 +2,17 @@
 
 Label: Kieu Tao 80
 
-Label: Kieu Tao 80
-
-Suite: Kieu Tao 80
+Suite: stable
 
 Version: 2.1
 
-Codename: Kieu Tao 80
+Codename: ios
 
 Architectures: iphoneos-arm
 
 Components: main
 
-Description: Kieu Tao 80
+Description: Autolead XXX iOS for Device Model 10.x - 11.4.1
 
 MD5sum:
 
