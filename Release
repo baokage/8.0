@@ -1,23 +1,23 @@
-﻿Origin: AutoleadX8
+﻿Origin: Kieu Tao 80
 
-Label: AutoleadX8
+Label: Kieu Tao 80
 
-Label: AutoleadX8
+Label: Kieu Tao 80
 
-Suite: AutoleadX8
+Suite: Kieu Tao 80
 
-Version: 1.0
+Version: 2.1
 
-Codename: AutoleadX8
+Codename: Kieu Tao 80
 
 Architectures: iphoneos-arm
 
 Components: main
 
-Description: AutoleadX8
+Description: Kieu Tao 80
 
 MD5sum:
 
-7a3544f6ac04918d5859180ba460387d 7619 Packages
+8dee0c1e45d0784bf0355317ae195fd4 8486 Packages
 
-d2e22ab2f0864c35e8202e68903b6d21 2234 Packages.bz2
+a7b3569d5967c7dc7b2b63e561007385 2358 Packages.bz2
