@@ -4,7 +4,7 @@ Label: Kieu Tao 80
 
 Suite: stable
 
-Version: 2.1
+Version: 1.0
 
 Codename: ios
 
@@ -16,6 +16,6 @@ Description: Autolead XXX iOS for Device Model 10.x - 11.4.1
 
 MD5sum:
 
-fe97a612fc2f05df0fc3a4c608947843 8937 Packages
+671a41a2f359302f715a202cb86b8b05 8391 Packages
 
-47c1c0b08cdf48c2ddb82ef2f64e84d6 2394 Packages.bz2
+f28eb9b09084b6d0abe7aa204cd7078d 2260 Packages.bz2
