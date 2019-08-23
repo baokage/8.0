@@ -1,21 +1,11 @@
-﻿Origin: Kieu Tao 80
-
-Label: Kieu Tao 80
-
+﻿Origin: Kieu Tao Dep Trai VCL
+Label: Kieu Tao Dep Trai VCL
 Suite: stable
-
 Version: 1.0
-
 Codename: ios
-
 Architectures: iphoneos-arm
-
 Components: main
-
-Description: Autolead XXX iOS for Device Model 10.x - 11.4.1
-
+Description: AutoleadXXX iOS for Device Model 10.x - 12.2
 MD5sum:
-
 4d90f104547eacbb54e5a03765a5e4c7 8707 Packages
-
 b38ce51177c42b74192f7e6d67e25afe 2364 Packages.bz2
