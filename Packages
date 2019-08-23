@@ -211,3 +211,15 @@ Size: 18924
 MD5sum: acc0fd9531e80c95e3d1983741d509c8
 Depends: mobilesubstrate,com.kidsauto.kidsdaemon
 Conflicts: com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2,com.kidsauto.sslkillswitch,com.isecpartners.nabla.sslkillswitch
+
+Package: com.matchstic.reprovision
+Name: Reprovision
+Version: 0.4.2
+Architecture: iphoneos-arm
+Description: Gia han Unc0ver
+Maintainer: Matt Clarke
+Author: Matt Clarke
+Section: System
+Filename: ./8.0/com.matchstic.reprovision_0.4.2_iphoneos-arm.deb
+Size: 10573694
+MD5sum: e01d764b70d8ad1a9cf35eae944962d4
